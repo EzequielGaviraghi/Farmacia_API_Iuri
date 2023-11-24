@@ -1,0 +1,48 @@
+{
+    "Medicamento": [
+      {
+        "id": 1,
+        "nome": "Paracetamol",
+        "fabricante": "Farmacorp",
+        "quantidade": 100
+      },
+      {
+        "id": 2,
+        "nome": "Ibuprofeno",
+        "fabricante": "MedPharma",
+        "quantidade": 50
+      }
+    ],
+
+    "Cliente": [
+      {
+        "id": 1,
+        "nome": "João Silva",
+        "endereco": "Rua A, 123",
+        "email": "joao@email.com",
+        "telefone": "(11) 1234-5678"
+      },
+      {
+        "Id": 2,
+        "nome": "Maria Oliveira",
+        "endereco": "Av. B, 456",
+        "email": "maria@email.com",
+        "telefone": "(22) 9876-5432"
+      }
+    ],
+
+    "Fornecedor": [
+      {
+        "id": 1,
+        "nome": "FornecedorABC",
+        "endereco": "Rua X, 789",
+        "telefone": "(33) 1111-2222"
+      },
+      {
+        "id": 2,
+        "nome": "FornecedorXYZ",
+        "endereco": "Av. Y, 987",
+        "telefone": "(44) 3333-4444"
+      }
+    ]
+}
